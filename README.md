@@ -1,2 +1,6 @@
-# dabang_Android
-Dabang Project Android
+# Android
+
+
+MVP 패턴을 간소화한 자바 안드로이드 템플릿입니다. 
+
+네트워크 통신시 자동으로 인터셉트하여 JWT를 실어서 보냅니다. 
