@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af303b09-e59e-4c07-bbbe-fc156431f1b8" name="Default Changelist" comment="" />
+    <list default="true" id="094c22c7-f4f6-4cf0-b254-83fcd6c062d4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,10 +25,20 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1gtvdysja5vRpwvNFng1Ve07WIV" />
+  <component name="ProjectId" id="1hGmbYW5bQZqgX8z3W9d7inYY6T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,8 +48,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../youtube_mock_android_tami/app" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.dabang.src.main.models" />
+      <recent name="com.example.dabang.src.main.Home.Adapter" />
+      <recent name="com.example.dabang.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\teamin\Documents\dabang_Android\app\src\main\res\layout" />
+      <recent name="C:\Users\teamin\Documents\dabang_Android\app\src\main\java\com\example\dabang\src\main\Home\Adapter" />
+      <recent name="C:\Users\teamin\Documents\dabang_Android\app\src\main\java\com\example\dabang\src\main\Home\models" />
+      <recent name="C:\Users\teamin\Documents\dabang_Android\app\src\main\java\com\example\dabang\src\main\Home\interfaces" />
+      <recent name="C:\Users\teamin\Documents\dabang_Android\app\src\main\java\com\example\dabang\src\main\Home" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -49,7 +76,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -106,12 +133,43 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="af303b09-e59e-4c07-bbbe-fc156431f1b8" name="Default Changelist" comment="" />
-      <created>1598946794939</created>
+      <changelist id="094c22c7-f4f6-4cf0-b254-83fcd6c062d4" name="Default Changelist" comment="" />
+      <created>1599645874586</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598946794939</updated>
+      <updated>1599645874586</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="128" key="#PSD" timestamp="1599655359940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="128" key="#PSD/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1599655359940" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1599742810150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1599742810150" />
+    <state x="555" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599660827828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-910" y="292" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1599651285263" />
+    <state x="555" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1599660827828" />
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog" timestamp="1599654277272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1599654277272" />
+    <state x="-783" y="358" key="AndroidCreateXmlResourceDialog" timestamp="1599652092719">
+      <screen x="-1280" y="54" width="1280" height="984" />
+    </state>
+    <state x="-783" y="358" key="AndroidCreateXmlResourceDialog/0.0.1920.1040/-1280.54.1280.984@-1280.54.1280.984" timestamp="1599652092719" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599863870557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1599863870557" />
+    <state x="155" y="308" key="psd.add.library.dependency.panel.dimension" timestamp="1599655356625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="155" y="308" key="psd.add.library.dependency.panel.dimension/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1599655356625" />
   </component>
 </project>

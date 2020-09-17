@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/276022762/SampleTemplateJava.iml" filepath="$PROJECT_DIR$/.idea/modules/276022762/SampleTemplateJava.iml" group="SampleTemplateJava" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="SampleTemplateJava/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="dabang/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/276022762/dabang.iml" filepath="$PROJECT_DIR$/.idea/modules/276022762/dabang.iml" group="dabang" />
     </modules>
   </component>
 </project>
